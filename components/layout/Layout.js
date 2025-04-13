@@ -1,5 +1,6 @@
 
 'use client'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import { useEffect, useState } from "react"
 import BackToTop from '../elements/BackToTop'
 import DataBg from "../elements/DataBg"
@@ -75,6 +76,7 @@ export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumb
                 {footerStyle == 5 ? < Footer5 /> : null}
             </div>
             <BackToTop scroll={scroll} />
+            <SpeedInsights />
         </>
     )
 }
