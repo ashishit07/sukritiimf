@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/apple/Desktop/newrepo/sukritiimf/app/layout\":[\"static/media/7e6a2e30184bb114-s.p.woff2\",\"static/media/0acf7bf726cd1ef0-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
