@@ -22072,3 +22072,12 @@ button.swiper-pagination-bullet {
 }.__variable_88f470 {--sonchoy-font-two: '__Syne_88f470', '__Syne_Fallback_88f470'
 }
 
+.main-menu__logo {
+  position: relative;
+  display: block;
+  margin-right: 130px;
+  padding: 10px 0;
+}
+.main-menu__logo a img {
+width: 111px;
+}
