@@ -9,6 +9,7 @@ export default function Quote() {
     return (
         <>
             {/* Get Quote Start  */}
+            
         <section className="get-quote">
             <div className="get-quote__shape-4 float-bob-x">
                 <img src="assets/images/shapes/get-quote-shape-4.png" alt=""/>

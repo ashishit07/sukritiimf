@@ -38,8 +38,7 @@ export default function WhyChooseUs() {
                                 <div className="section-title__tagline-box">
                                     <p className="section-title__tagline">WHY CHOOSE SONCHOY</p>
                                 </div>
-                                <h2 className="section-title__title">Why India Needs Ethical 
-                                    <br/> Financial Distribution?</h2>
+                                <h2 className="section-title__title">Why India Needs Ethical <br/> Financial Distribution ?​</h2>
                             </div>
                             <ul className="why-choose-one__points list-unstyled">
                                 <li>

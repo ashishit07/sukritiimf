@@ -12,6 +12,7 @@ import Blog from "@/components/sections/home1/Blog"
 import Faq from "@/components/sections/home1/Faq"
 import Quote from "@/components/sections/home1/Quote"
 import Testimonial from "@/components/sections/home1/Testimonial"
+import Section2 from "@/components/sections/home1/section2"
 
 export default function Home() {
 
@@ -28,10 +29,11 @@ export default function Home() {
                 <Work />
                 <Faq />
                 <Testimonial />
-                <Quote />
+              
                 <Brand />
+                <Section2 />
                 <Blog />
-                
+                  <Quote />
             </Layout>
 
         </>

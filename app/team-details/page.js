@@ -1,12 +1,11 @@
 
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
-export default function Home() {
+export default function Home2() {
 
     return (
         <>
-        <Layout headerStyle={1} footerStyle={1} breadcrumbTitle="Member Details">
-        {/* Team Details Start */}
+       
         <section className="team-details">
             <div className="container">
                 <div className="team-details__top">
@@ -24,14 +23,14 @@ export default function Home() {
                                 <div className="team-details__top-img">
                                     <img src="assets/images/team/team-details-top-img-1.jpg" alt=""/>
                                 </div>
-                                <span>SONCHOY</span>
+                                <span>SUKRITI</span>
                             </div>
                         </div>
                         <div className="col-xl-5 col-lg-5">
                             <div className="team-details__top-right">
-                                <h3 className="team-details__top-right-title">Robert Broom</h3>
-                                <p className="team-details__top-right-sub-title">Backend Developer</p>
-                                <ul className="team-details__top-points list-unstyled">
+                                <h3 className="team-details__top-right-title">SATHEESH KUMAR N</h3>
+                                <p className="team-details__top-right-sub-title">Principal Officer </p>
+                                {/* <ul className="team-details__top-points list-unstyled">
                                     <li>
                                         <span>Department:</span>
                                         <p>Web Design</p>
@@ -48,7 +47,7 @@ export default function Home() {
                                         <span>Phone:</span>
                                         <p><Link href="tel:+1900938495743">+1-900-938-4957-43</Link></p>
                                     </li>
-                                </ul>
+                                </ul> */}
                                 <div className="team-details__social">
                                     <Link href="#"><span className="icon-facebook-app-symbol"></span></Link>
                                     <Link href="#" className="team-details__social-color-2"><span
@@ -63,16 +62,26 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="team-details__bottom">
-                    <h3 className="team-details__title-1">Alen Walker’s Biography</h3>
-                    <p className="team-details__text-1">A vast majority of the app marketers mainly concentrate on the
-                        post-launch app marketing techniques and measures while completely missing on the pre-launch
-                        campaign. This prevents the app to create buzz and hype just around the time when the app is
-                        launched. As and when you launch the app, already a considerable number of people should
-                        expectantly look forward to your app and this requires long-drawn marketing</p>
-                    <p className="team-details__text-2">To create pre-launch buzz and hype about the app a mobile app
-                        development company has an array of marketing options like social media campaign, search engine
-                        ads, video ads, email campaigns, etc. Apart from online options, you can also reach out to the
-                        wider audience with traditional marketing</p>
+                    {/* <h3 className="team-details__title-1">Alen Walker’s Biography</h3> */}
+                    <p className="team-details__text-1">M.Com (Banking & Insurance), Fellow of Insurance institute of India (FIII)​
+
+MBA (Sales and Marketing)​
+
+</p>
+                    <p className="team-details__text-2">​
+Shri. Satheesh Kumar, Principal officer (PO) of Sukriti IMF LLP is an Industry​
+
+expert having a total experience of 32 years with the top two life insurance​
+
+companies in India (13 years in LIC and 19 years in SBI Life insurance Co Ltd).​
+
+He is a firm believer and practitioner of “No Mis Selling & No Force Selling”​
+
+concept and advocates only “Need based selling”. He is committed to continue​
+
+ETHICAL & NEED BASED SELLING in his new role as the Principal Office (PO) of​
+
+“Sukriti IMF LLP”.</p>
                     <div className="team-details__progress-and-company">
                         <div className="row">
                             <div className="col-xl-6">
@@ -182,9 +191,7 @@ export default function Home() {
                 </div>
             </div>
         </section>
-        {/* Team Details End */}
-
-            </Layout>
+     
         </>
     )
 }
