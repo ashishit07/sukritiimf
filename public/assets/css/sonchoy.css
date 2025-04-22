@@ -16009,3 +16009,12 @@ Project Style1
 
 
 
+.main-menu__logo {
+  position: relative;
+  display: block;
+  margin-right: 130px;
+  padding: 10px 0;
+}
+.main-menu__logo a img {
+width: 111px;
+}
