@@ -10,26 +10,34 @@ export default function Footer1() {
                 <div className="container">
                     <div className="site-footer__top-inner">
                         <div className="row">
-                            <div className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                            <div className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                                 <div className="footer-widget__column footer-widget__about">
                                     <div className="footer-widget__logo">
-                                        <Link href="index"><img src="assets/images/resources/footer-logo-1.png"
+                                        <Link href="index"><img src="assets/images/resources/logo-1.png"
                                                 alt=""/></Link>
                                     </div>
-                                    <p className="footer-widget__about-text">Address 301 Princes Street, Ei className
-                                        <br/> Mahall Damietta Egypt-104</p>
-                                    <div className="footer-widget__emergency-call">
-                                        <Link href="tel:+134353353545">+1 343 5335 3545</Link>
+
+                                    <div className="footer-widget__title-box" style={{ marginBottom: '10px' }}>
+                                        <h3 className="footer-widget__title"  >Registered Address</h3>
                                     </div>
-                                    <div className="footer-widget__social">
+                                    
+                                    <p className="footer-widget__about-text" style={{ marginTop: '0px' }}>Samridhi Puthichal, Thannimoud P.O.,Thiruvananthapuram – 695123, Kerala, India</p>
+                                    <div className="footer-widget__title-box" style={{ marginBottom: '10px' }}>
+                                        <h3 className="footer-widget__title" style={{ marginBottom: '10px' }}>Phone Number</h3>
+                                    </div>
+                                    <div className="footer-widget__emergency-call" style={{ marginTop: '0px' }}>
+                                        <Link href="tel:0471-2401591">0471-2401591 </Link>
+                                        <Link href="tel:+91 9447124015">+91 9447124015</Link>
+                                    </div>
+                                    {/* <div className="footer-widget__social">
                                         <Link href="#"><span className="icon-facebook"></span></Link>
                                         <Link href="#"><span className="icon-instagram-1"></span></Link>
                                         <Link href="#"><span className="icon-tik-tok"></span></Link>
                                         <Link href="#"><span className="icon-youtube"></span></Link>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
-                            <div className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                            {/* <div className="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                                 <div className="footer-widget__column footer-widget__navigation">
                                     <div className="footer-widget__title-box">
                                         <h3 className="footer-widget__title">Navigation</h3>
@@ -52,59 +60,32 @@ export default function Footer1() {
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
-                            <div className="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                                <div className="footer-widget__column footer-widget__quick-link">
+                            </div> */}
+                                  <div className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                                <div className="footer-widget__column footer-widget__newsletter">
                                     <div className="footer-widget__title-box">
-                                        <h3 className="footer-widget__title">Quick Link</h3>
+                                        <h3 className="footer-widget__title">Branch Office Address</h3>
                                     </div>
-                                    <ul className="footer-widget__navigation-list list-unstyled">
-                                        <li>
-                                            <Link href="about">Help</Link>
-                                        </li>
-                                        <li>
-                                            <Link href="contact">Support</Link>
-                                        </li>
-                                        <li>
-                                            <Link href="testimonial">Clients</Link>
-                                        </li>
-                                        <li>
-                                            <Link href="products">Shop</Link>
-                                        </li>
-                                        <li>
-                                            <Link href="portfolio">Portfolio</Link>
-                                        </li>
-                                    </ul>
+                                    <p className="footer-widget__newsletter-text">TC 43/657/5, UK Edifies, Valiyasalai, Chalai P.O.,<br/> Thiruvananthapuram – 685036, Kerala, India</p>
+                               
                                 </div>
                             </div>
                             <div className="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                                 <div className="footer-widget__column footer-widget__newsletter">
                                     <div className="footer-widget__title-box">
-                                        <h3 className="footer-widget__title">Newsletter</h3>
+                                        <h3 className="footer-widget__title">Email Address</h3>
                                     </div>
-                                    <p className="footer-widget__newsletter-text">Subscribe our newsletter to get the
-                                        <br/> latest news & updates</p>
-                                    <form className="footer-widget__newsletter-form">
-                                        <div className="footer-widget__newsletter-input-box">
-                                            <input type="email" placeholder="email@example.com" name="email"/>
-                                            <button type="submit" className="footer-widget__newsletter-btn"><i
-                                                    className="icon-send"></i></button>
-                                        </div>
-                                    </form>
+                                    <div className="footer-widget__emergency-call" style={{ marginTop: '0px' }}>
+                                        <Link href="mailto:sukritiimfllp@gmail.com">sukritiimfllp@gmail.com   </Link> <br/>
+                                        <Link href="mailto:satheeshrmbanca@gmail.com">satheeshrmbanca@gmail.com </Link> 
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div className="site-footer__bottom">
-                <div className="container">
-                    <div className="site-footer__bottom-inner">
-                        <p className="site-footer__bottom-text">Copyright © 2024 Sonchoy by <Link href="#">thememx.</Link> All
-                            Rights Reserved</p>
-                    </div>
-                </div>
-            </div>
+
         </footer>
 
         </>
