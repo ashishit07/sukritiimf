@@ -33,41 +33,41 @@ export default function Funfacts() {
                             <div className="counter-one__icon">
                                 <span className="icon-team"></span>
                             </div>
-                            <div className="counter-one__count count-box">
+                            {/* <div className="counter-one__count count-box">
                                     <CounterUp end={250} />
                                 <span>+</span>
-                            </div>
-                            <p className="counter-one__text">Active Team Members</p>
+                            </div> */}
+                            <p className="counter-one__text">Trusted Advisors​</p>
                         </li>
                         <li className="wow fadeInUp" data-wow-delay="200ms">
                             <div className="counter-one__icon">
                                 <span className="icon-insurance"></span>
                             </div>
-                            <div className="counter-one__count count-box">
+                            {/* <div className="counter-one__count count-box">
                                 <CounterUp end={90} />
                                 <span>+</span>
-                            </div>
-                            <p className="counter-one__text">Give Insurance</p>
+                            </div> */}
+                            <p className="counter-one__text">Pan-India Reach​</p>
                         </li>
                         <li className="wow fadeInDown" data-wow-delay="300ms">
                             <div className="counter-one__icon">
                                 <span className="icon-rating"></span>
                             </div>
-                            <div className="counter-one__count count-box">
+                            {/* <div className="counter-one__count count-box">
                                     <CounterUp end={2.56} />
                                 <span>k</span>
-                            </div>
-                            <p className="counter-one__text">Satisfied Customers</p>
+                            </div> */}
+                            <p className="counter-one__text">Insurance Solutions Delivered​</p>
                         </li>
                         <li className="wow fadeInRight" data-wow-delay="400ms">
                             <div className="counter-one__icon">
                                 <span className="icon-team"></span>
                             </div>
-                            <div className="counter-one__count count-box">
+                            {/* <div className="counter-one__count count-box">
                                     <CounterUp end={99} />
                                 <span>%</span>
-                            </div>
-                            <p className="counter-one__text">Awards Winning</p>
+                            </div> */}
+                            <p className="counter-one__text">One Platform​</p>
                         </li>
                     </ul>
                 </div>

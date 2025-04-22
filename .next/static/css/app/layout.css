@@ -3771,10 +3771,7 @@ ul {
   position: relative;
   display: block;
   margin-right: 130px;
-  padding: 10px 0;
-}
-.main-menu__logo a img {
-width: 111px;
+  padding: 34px 0;
 }
 
 .main-menu__main-menu-box {
@@ -18550,7 +18547,15 @@ Project Style1
 
 
 
-
+.main-menu__logo {
+  position: relative;
+  display: block;
+  margin-right: 130px;
+  padding: 10px 0;
+}
+.main-menu__logo a img {
+width: 111px;
+}
 /*!************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./public/assets/css/sonchoy-responsive.css ***!
   \************************************************************************************************************************************************************************************************************************************************************************************/
@@ -22072,12 +22077,3 @@ button.swiper-pagination-bullet {
 }.__variable_88f470 {--sonchoy-font-two: '__Syne_88f470', '__Syne_Fallback_88f470'
 }
 
-.main-menu__logo {
-  position: relative;
-  display: block;
-  margin-right: 130px;
-  padding: 10px 0;
-}
-.main-menu__logo a img {
-width: 111px;
-}

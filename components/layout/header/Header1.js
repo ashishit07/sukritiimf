@@ -15,7 +15,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                                 <i className="icon-maps-and-flags"></i>
                             </div>
                             <div className="text">
-                                <p>465 NT Road. North West, England</p>
+                                <p>Thiruvananthapuram 695123, Kerala, India​</p>
                             </div>
                         </li>
                         <li>
@@ -23,7 +23,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                                 <i className="icon-envelope"></i>
                             </div>
                             <div className="text">
-                                <p><Link href="mailto:needhelpazent@gmail.cpm">needhelpazent@gmail.cpm</Link></p>
+                                <p><Link href="mailto:needhelpazent@gmail.cpm">sukritiimfllp@gmail.com ​</Link></p>
                             </div>
                         </li>
                     </ul>
@@ -57,9 +57,9 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                                     <button type="submit"><i className="icon-search"></i></button>
                                 </form>
                             </div> */}
-                            <div className="main-menu__cart">
+                            {/* <div className="main-menu__cart">
                                 <Link href="products"><span className="icon-cart"></span></Link>
-                            </div>
+                            </div> */}
                             <div className="main-menu__btn-box">
                                 <Link href="contact" className="main-menu__btn thm-btn">GET A QUOTE</Link>
                             </div>

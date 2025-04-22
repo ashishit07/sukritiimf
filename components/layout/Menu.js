@@ -38,19 +38,7 @@ export default function Menu() {
                 <li>
                     <Link href="about">About</Link>
                 </li>
-                <li className="dropdown">
-                    <Link href="#">Pages</Link>
-                    <ul>
-                        <li><Link href="team">Team</Link></li>
-                        <li><Link href="team-details">Team Details</Link></li>
-                        <li><Link href="testimonial">Testimonials</Link></li>
-                        <li><Link href="portfolio">Portfolio</Link></li>
-                        <li><Link href="portfolio-details">Portfolio Details</Link></li>
-                        <li><Link href="pricing">Pricing</Link></li>
-                        <li><Link href="faq">Faq</Link></li>
-                        <li><Link href="/error">404 Error</Link></li>
-                    </ul>
-                </li>
+           
                 <li className="dropdown">
                     <Link href="#">Insurance</Link>
                     <ul>
@@ -71,13 +59,7 @@ export default function Menu() {
                         <li><Link href="blog-details">Blog Details</Link></li>
                     </ul>
                 </li>
-                <li className="dropdown">
-                    <Link href="#">Shop</Link>
-                    <ul>
-                        <li><Link href="products">Products</Link></li>
-                        <li><Link href="product-details">Product Details</Link></li>
-                    </ul>
-                </li>
+         
                 <li>
                     <Link href="contact">Contact</Link>
                 </li>

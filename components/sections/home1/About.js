@@ -61,14 +61,12 @@ export default function About() {
                         <div className="about-one__right">
                             <div className="section-title text-left">
                                 <div className="section-title__tagline-box">
-                                    <p className="section-title__tagline">KNOW ABOUT SONCHOY</p>
+                                    <p className="section-title__tagline">SUKRITI</p>
                                 </div>
                                 <h2 className="section-title__title">Get Insurence Solution
                                     With Our Expert</h2>
                             </div>
-                            <p className="about-one__text-1">Arki features minimal and stylish design. The theme is well
-                                crafted for all the modern architect and interior design website. With Arki, it makes
-                                your website look even more attractive and impressive to</p>
+                            <p className="about-one__text-1">At  <b> SUKRITI IMF LLP, </b> we’re not here to sell you just another policy — we’re here to guide you towards lifelong financial freedom through advice that truly puts you first.</p>
                             <div className="about-one__text-box">
                                 <div className="about-one__text-box-shape">
                                     <img src="assets/images/shapes/about-one-text-box-shape.png" alt=""/>
@@ -76,8 +74,7 @@ export default function About() {
                                 <div className="about-one__text-box-icon">
                                     <span className="icon-file-1"></span>
                                 </div>
-                                <p className="about-one__text-box-text">Nullam eu nibh vitae est tempor molestie id sed ex.
-                                    Quisque dignissim maximus ipsum, sed</p>
+                                <p className="about-one__text-box-text">Empowering you to make clear, confident financial decisions—no matter where you are in life.</p>
                             </div>
                             <ul className="about-one__points list-unstyled">
                                 <li>
@@ -109,7 +106,7 @@ export default function About() {
                                     </div>
                                     <div className="content">
                                         <span>Call Us Free</span>
-                                        <p><Link href="tel:+9993256589">+999 325 6589</Link></p>
+                                        <p><Link href="tel:+919447124015​">+91 9447124015​</Link></p>
                                     </div>
                                 </div>
                             </div>

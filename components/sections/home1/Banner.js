@@ -54,16 +54,14 @@ export default function Banner() {
                                 <div className="main-slider__content">
                                     <div className="main-slider__section-and-text">
                                         <div className="section-title text-left">
-                                            <div className="section-title__tagline-box">
+                                            {/* <div className="section-title__tagline-box">
                                                 <p className="section-title__tagline">RELIABLE. pERSONABLE. fAST</p>
-                                            </div>
-                                            <h2 className="section-title__title">Life Insurance
-                                                <br/> That Creates
-                                                <br/> Future</h2>
+                                            </div> */}
+                                            <h2 className="section-title__title">Guiding You with 
+                                                <br/> Commitment
+                                                </h2>
                                         </div>
-                                        <p className="main-slider__text">Pellentesque habitant morbi tristique senectus et netus et
-                                            malesuada fames
-                                            <br/> ac turpis egestas. Proin elementum finibus lacus quis hendrerit.</p>
+                                        <p className="main-slider__text">Ethical, need-based financial solutions built for your life’s journey.</p>
                                     </div>
                                     <div className="main-slider__btn-and-ratting-box">
                                         <div className="main-slider__btn-box">

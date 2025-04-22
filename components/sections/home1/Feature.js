@@ -19,10 +19,10 @@ export default function Feature() {
                                 <span className="icon-protection"></span>
                             </div>
                             <div className="feature-one__content">
-                                <p className="feature-one__sub-title">Insurance Agency</p>
-                                <h3 className="feature-one__title"><Link href="about">First & Reliable</Link></h3>
-                                <Link href="about" className="feature-one__read-more">READ MORE<span
-                                        className="icon-next"></span></Link>
+                                <p className="feature-one__sub-title">IRDAI-Licensed ​</p>
+                                <h3 className="feature-one__title"><Link href="about">Insurance Marketing Firm​</Link></h3>
+                                {/* <Link href="about" className="feature-one__read-more">READ MORE<span
+                                        className="icon-next"></span></Link> */}
                             </div>
                         </div>
                     </div>
@@ -37,10 +37,10 @@ export default function Feature() {
                                 <span className="icon-investment"></span>
                             </div>
                             <div className="feature-one__content">
-                                <p className="feature-one__sub-title">Insurance Agency</p>
-                                <h3 className="feature-one__title"><Link href="about">Invest Your Money</Link></h3>
-                                <Link href="about" className="feature-one__read-more">READ MORE<span
-                                        className="icon-next"></span></Link>
+                                <p className="feature-one__sub-title">Authorised to distribute</p>
+                                <h3 className="feature-one__title"><Link href="about">​Serving Life Non-Life, Health Insurance, <br/> Regulated Financial Products</Link></h3>
+                                {/* <Link href="about" className="feature-one__read-more">READ MORE<span
+                                        className="icon-next"></span></Link> */}
                             </div>
                         </div>
                     </div>
@@ -55,10 +55,10 @@ export default function Feature() {
                                 <span className="icon-risk-management"></span>
                             </div>
                             <div className="feature-one__content">
-                                <p className="feature-one__sub-title">Insurance Agency</p>
-                                <h3 className="feature-one__title"><Link href="about">Get Your Insurance</Link></h3>
-                                <Link href="about" className="feature-one__read-more">READ MORE<span
-                                        className="icon-next"></span></Link>
+                                <p className="feature-one__sub-title">Headquartered</p>
+                                <h3 className="feature-one__title"><Link href="about">in Kerala, with a mission to empower every household</Link></h3>
+                                {/* <Link href="about" className="feature-one__read-more">READ MORE<span
+                                        className="icon-next"></span></Link> */}
                             </div>
                         </div>
                     </div>
