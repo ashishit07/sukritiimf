@@ -38,7 +38,7 @@ export default function Feature() {
                             </div>
                             <div className="feature-one__content">
                                 <p className="feature-one__sub-title">Authorised to distribute</p>
-                                <h3 className="feature-one__title"><Link href="about">​Serving Life Non-Life, Health Insurance, <br/> Regulated Financial Products</Link></h3>
+                                <h3 className="feature-one__title"><Link href="about"> Financial Products</Link></h3>
                                 {/* <Link href="about" className="feature-one__read-more">READ MORE<span
                                         className="icon-next"></span></Link> */}
                             </div>
@@ -55,8 +55,8 @@ export default function Feature() {
                                 <span className="icon-risk-management"></span>
                             </div>
                             <div className="feature-one__content">
-                                <p className="feature-one__sub-title">Headquartered</p>
-                                <h3 className="feature-one__title"><Link href="about">in Kerala, with a mission to empower every household</Link></h3>
+                                <p className="feature-one__sub-title">Headquartered in Kerala</p>
+                                <h3 className="feature-one__title"><Link href="about"> empower every household</Link></h3>
                                 {/* <Link href="about" className="feature-one__read-more">READ MORE<span
                                         className="icon-next"></span></Link> */}
                             </div>
