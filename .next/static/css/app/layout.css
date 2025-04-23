@@ -18563,6 +18563,13 @@ width: 111px;
 .work-step-one__hover-shape-1 img {
   filter: brightness(0) saturate(100%) invert(88%) sepia(22%) saturate(4700%) hue-rotate(327deg) brightness(103%) contrast(96%);
 }
+
+.team-details {
+  position: relative;
+  display: block;
+  padding: 20px 0 20px;
+  z-index: 1;
+}
 /*!************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./public/assets/css/sonchoy-responsive.css ***!
   \************************************************************************************************************************************************************************************************************************************************************************************/

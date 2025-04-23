@@ -31,9 +31,9 @@ export default function Home() {
               
                 
               <SatheeShProfile />
-                <Brand />
+          
                 <Section2 />
-                <Blog />
+            
                   <Quote />
             </Layout>
 
