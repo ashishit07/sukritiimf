@@ -36,9 +36,9 @@ export default function WhyChooseUs() {
                         <div className="why-choose-one__right">
                             <div className="section-title text-left">
                                 <div className="section-title__tagline-box">
-                                    <p className="section-title__tagline">WHY CHOOSE SONCHOY</p>
+                                    <p className="section-title__tagline">WHY CHOOSE SUKRITI</p>
                                 </div>
-                                <h2 className="section-title__title">Why India Needs Ethical <br/> Financial Distribution ?​</h2>
+                                <h2 className="section-title__title">What Makes us  <br/> Different from Others</h2>
                             </div>
                             <ul className="why-choose-one__points list-unstyled">
                                 <li>
@@ -47,8 +47,7 @@ export default function WhyChooseUs() {
                                     </div>
                                     <div className="content">
                                         <h3>Full Safety Money</h3>
-                                        <p>Through a unique coN construction and design discipl
-                                            nes expertise Concor and delivers</p>
+                                        <p>Practices need-based selling, not commission-based product pushing</p>
                                     </div>
                                 </li>
                                 <li>
@@ -56,9 +55,8 @@ export default function WhyChooseUs() {
                                         <span className="icon-cashback"></span>
                                     </div>
                                     <div className="content">
-                                        <h3>Anytime Money Back</h3>
-                                        <p>Through a unique coN construction and design discipl
-                                            nes expertise Concor and delivers</p>
+                                        <h3>Comprehensive Financial Product</h3>
+                                        <p>Offers Life, Non-Life, Health Insurance, Mutual Funds, Pension Plans, Post Office Schemes </p>
                                     </div>
                                 </li>
                                 <li>
@@ -67,8 +65,7 @@ export default function WhyChooseUs() {
                                     </div>
                                     <div className="content">
                                         <h3>Fast Processing System</h3>
-                                        <p>Through a unique coN construction and design discipl
-                                            nes expertise Concor and delivers</p>
+                                        <p>Strong post-sales service and renewal tracking system</p>
                                     </div>
                                 </li>
                             </ul>

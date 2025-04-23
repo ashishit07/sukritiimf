@@ -27,8 +27,8 @@ export default function Home() {
                 <WhyChooseUs />
                 <Video />
                 <Work />
-                <Faq />
-                <Testimonial />
+              
+                
               
                 <Brand />
                 <Section2 />
