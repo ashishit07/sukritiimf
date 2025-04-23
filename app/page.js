@@ -13,6 +13,7 @@ import Faq from "@/components/sections/home1/Faq"
 import Quote from "@/components/sections/home1/Quote"
 import Testimonial from "@/components/sections/home1/Testimonial"
 import Section2 from "@/components/sections/home1/section2"
+import SatheeShProfile from "@/components/sections/home1/Sathees"
 
 export default function Home() {
 
@@ -29,7 +30,7 @@ export default function Home() {
                 <Work />
               
                 
-              
+              <SatheeShProfile />
                 <Brand />
                 <Section2 />
                 <Blog />

@@ -26,7 +26,7 @@ export default function Footer1() {
                                         <h3 className="footer-widget__title" style={{ marginBottom: '10px' }}>Phone Number</h3>
                                     </div>
                                     <div className="footer-widget__emergency-call" style={{ marginTop: '0px' }}>
-                                        <Link href="tel:0471-2401591">0471-2401591 </Link>
+                                        <Link href="tel:0471-2401591">0471-2401591 </Link> <br/>
                                         <Link href="tel:+91 9447124015">+91 9447124015</Link>
                                     </div>
                                     {/* <div className="footer-widget__social">
