@@ -16021,3 +16021,8 @@ width: 111px;
 .footer-widget__logo a img {
   width: 111px;
 }
+
+.work-step-one__hover-shape-1 img {
+  
+  filter: brightness(0) saturate(100%) invert(88%) sepia(22%) saturate(4700%) hue-rotate(327deg) brightness(103%) contrast(96%);
+}
