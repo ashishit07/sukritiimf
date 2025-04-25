@@ -57,8 +57,8 @@ export default function Banner() {
                                             {/* <div className="section-title__tagline-box">
                                                 <p className="section-title__tagline">RELIABLE. pERSONABLE. fAST</p>
                                             </div> */}
-                                            <h2 className="section-title__title">Guiding You with 
-                                                <br/> Commitment
+                                            <h2 className="section-title__title">Guiding You  <br/>  with <br/> 
+                                          Commitment
                                                 </h2>
                                         </div>
                                         <p className="main-slider__text">Ethical, need-based financial solutions built for your life’s journey.</p>
@@ -67,14 +67,7 @@ export default function Banner() {
                                         <div className="main-slider__btn-box">
                                             <Link href="about" className="main-slider__btn thm-btn">get started</Link>
                                         </div>
-                                        <div className="main-slider__ratting">
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <span>Rated 5/5</span>
-                                        </div>
+                                    
                                     </div>
                                 </div>
                             </div>
@@ -114,14 +107,7 @@ export default function Banner() {
                                         <div className="main-slider__btn-box">
                                             <Link href="about" className="main-slider__btn thm-btn">get started</Link>
                                         </div>
-                                        <div className="main-slider__ratting">
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <span>Rated 5/5</span>
-                                        </div>
+                                 
                                     </div>
                                 </div>
                             </div>
@@ -161,14 +147,7 @@ export default function Banner() {
                                         <div className="main-slider__btn-box">
                                             <Link href="about" className="main-slider__btn thm-btn">get started</Link>
                                         </div>
-                                        <div className="main-slider__ratting">
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <i className="icon-star-1"></i>
-                                            <span>Rated 5/5</span>
-                                        </div>
+                                     
                                     </div>
                                 </div>
                             </div>

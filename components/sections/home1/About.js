@@ -28,21 +28,7 @@ export default function About() {
                                 <div className="about-one__img-2">
                                     <img src="assets/images/resources/about-one-img-2.jpg" alt=""/>
                                 </div>
-                                <div className="about-one__client-box">
-                                    <div className="about-one__client-box-bg"
-                                        style={{ backgroundImage: 'url(assets/images/shapes/about-one-client-box-bg-shape.png)' }} >
-                                    </div>
-                                    <div className="about-one__client-img">
-                                        <img src="assets/images/resources/about-one-client-img.jpg" alt=""/>
-                                    </div>
-                                    <div className="about-one__client-content">
-                                        <div className="about-one__count count-box">
-                                            <h3 className="count-text">4.2</h3>
-                                            <span>K</span>
-                                        </div>
-                                        <p>Satisfied Clients</p>
-                                    </div>
-                                </div>
+                             
                                 <div className="about-one__video-link">
                                     <a onClick={() => setOpen(true)} className="video-popup">
                                         <div className="about-one__video-icon">
@@ -97,9 +83,7 @@ export default function About() {
                                 </li>
                             </ul>
                             <div className="about-one__btn-and-contact">
-                                <div className="about-one__btn-box">
-                                    <Link href="about" className="about-one__btn thm-btn">Discover More</Link>
-                                </div>
+                             
                                 <div className="about-one__contact">
                                     <div className="icon">
                                         <span className="icon-telephone"></span>

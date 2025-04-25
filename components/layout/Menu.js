@@ -17,7 +17,7 @@ export default function Menu() {
             <ul className="main-menu__list">
                 <li className="dropdown current">
                     <Link href="/">Home </Link>
-                    <ul>
+                    {/* <ul>
                         <li className="current"><Link href="/">Home One</Link></li>
                         <li><Link href="index-2">Home Two</Link></li>
                         <li><Link href="index-3">Home Three</Link></li>
@@ -33,9 +33,9 @@ export default function Menu() {
                                 <li><Link href="index-5">Home Five</Link></li>
                             </ul>
                         </li>
-                    </ul>
+                    </ul> */}
                 </li>
-                <li>
+                {/* <li>
                     <Link href="about">About</Link>
                 </li>
            
@@ -62,7 +62,7 @@ export default function Menu() {
          
                 <li>
                     <Link href="contact">Contact</Link>
-                </li>
+                </li> */}
             </ul>
         </>
     )

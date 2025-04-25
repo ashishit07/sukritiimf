@@ -16032,3 +16032,35 @@ width: 111px;
   padding: 20px 0 20px;
   z-index: 1;
 }
+
+.feature-one__single:hover .feature-one__hover-shape-1 {
+  filter: brightness(0) saturate(100%) invert(88%) sepia(22%) saturate(4700%) hue-rotate(327deg) brightness(103%) contrast(96%);
+}
+
+
+.about-one__points li .icon span {
+  position: relative;
+  display: inline-block;
+  font-size: 16px;
+  color: #511dac;
+}
+.about-one__points li p {
+  margin-left: 10px;
+  font-weight: 700;
+  font-family: var(--sonchoy-font-two);
+  color: #511dac;
+}
+
+.services-one__single::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #FAAE42;
+  transform: scaleX(0.7) rotateX(20deg);
+  opacity: 0;
+  transition: all 0.4s linear;
+  z-index: -1;
+}
