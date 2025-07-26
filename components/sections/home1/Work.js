@@ -101,7 +101,7 @@ export default function Work() {
                                             <img src="assets/images/shapes/work-step-one-shape-3.png" alt=""/>
                                         </div>
                                     </div>
-                                    <h3 className="work-step-one__title"><Link href="about">Get Your Insurance</Link></h3>
+                                    <h3 className="work-step-one__title"><Link href="about">Get \ Insurance</Link></h3>
                                 </div>
                             </div>
                             {/* Work Stpe One Single End */}
