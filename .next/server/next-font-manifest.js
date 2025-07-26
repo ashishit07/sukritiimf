@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/apple/Desktop/newrepo/sukritiimf/app/layout\":[\"static/media/7e6a2e30184bb114-s.p.woff2\",\"static/media/0acf7bf726cd1ef0-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/ashishgupta/Documents/projects/bentos-next/eventflow/sukritiimf/app/layout":["static/media/9c18eba18d4baf22-s.p.woff2","static/media/8a1d8947e5852e30-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';

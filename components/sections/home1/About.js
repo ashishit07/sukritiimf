@@ -50,7 +50,7 @@ export default function About() {
                                 <div className="section-title__tagline-box">
                                     <p className="section-title__tagline">SUKRITI</p>
                                 </div>
-                                <p className="about-one__text-1" style={"font-weight:bold"}>Get Insurence Solution
+                                <p className="about-one__text-1">Get Insurence Solution
                                     With Our Expert</p>
                             </div>
                             <p className="about-one__text-1">At  <b> SUKRITI IMF LLP, </b> we’re not here to sell you just another policy — we’re here to guide you towards lifelong financial freedom through advice that truly puts you first.</p>
@@ -91,7 +91,7 @@ export default function About() {
                                     </div>
                                     <div className="content">
                                         <span>Call Us Free</span>
-                                        <p><Link href="tel:+917099091015​">+91 7099091015</Link></p>
+                                        <p><Link href="tel:+917099091015​">+917099091015</Link></p>
                                     </div>
                                 </div>
                             </div>

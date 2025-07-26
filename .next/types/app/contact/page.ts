@@ -1,4 +1,4 @@
-// File: /Users/apple/Desktop/newrepo/sukritiimf/app/contact/page.js
+// File: /Users/ashishgupta/Documents/projects/bentos-next/eventflow/sukritiimf/app/contact/page.js
 import * as entry from '../../../../app/contact/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
