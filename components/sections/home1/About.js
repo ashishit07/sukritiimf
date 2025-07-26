@@ -46,6 +46,7 @@ export default function About() {
                     <div className="col-xl-6">
                         <div className="about-one__right">
                             <div className="section-title text-left">
+                                  <h1 className="section-title__title">What Makes Us Different</h1>
                                 <div className="section-title__tagline-box">
                                     <p className="section-title__tagline">SUKRITI</p>
                                 </div>
@@ -67,19 +68,19 @@ export default function About() {
                                     <div className="icon">
                                         <span className="fas fa-check-circle"></span>
                                     </div>
-                                    <p>Fre Insurance Quotes</p>
+                                    <p>Educative marketing approach</p>
                                 </li>
                                 <li>
                                     <div className="icon">
                                         <span className="fas fa-check-circle"></span>
                                     </div>
-                                    <p>Experience & Qualified Agents</p>
+                                    <p>Free one-to-one fact finding zoom meeting sessions</p>
                                 </li>
                                 <li>
                                     <div className="icon">
                                         <span className="fas fa-check-circle"></span>
                                     </div>
-                                    <p>Large Member of Insurance Policies</p>
+                                    <p>Empower you for self financial-health checkup and  choosing right products through informed decisions</p>
                                 </li>
                             </ul>
                             <div className="about-one__btn-and-contact">
@@ -90,7 +91,7 @@ export default function About() {
                                     </div>
                                     <div className="content">
                                         <span>Call Us Free</span>
-                                        <p><Link href="tel:+919447124015​">+91 9447124015​</Link></p>
+                                        <p><Link href="tel:+917099091015​">+91 7099091015</Link></p>
                                     </div>
                                 </div>
                             </div>

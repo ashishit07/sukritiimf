@@ -58,7 +58,7 @@ export default function Banner() {
                                                 <p className="section-title__tagline">RELIABLE. pERSONABLE. fAST</p>
                                             </div> */}
                                             <h2 className="section-title__title">Guiding you <br/>  with <br/> 
-                                          Commitment, Not Commission
+                                          Commitment, <br/> Not Commission
                                                 </h2>
                                         </div>
                                         {/* <p className="main-slider__text">Ethical, need-based financial solutions built for your life’s journey.</p> */}
