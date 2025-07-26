@@ -50,8 +50,8 @@ export default function About() {
                                 <div className="section-title__tagline-box">
                                     <p className="section-title__tagline">SUKRITI</p>
                                 </div>
-                                <h2 className="section-title__title">Get Insurence Solution
-                                    With Our Expert</h2>
+                                <p className="about-one__text-1" style={"font-weight:bold"}>Get Insurence Solution
+                                    With Our Expert</p>
                             </div>
                             <p className="about-one__text-1">At  <b> SUKRITI IMF LLP, </b> we’re not here to sell you just another policy — we’re here to guide you towards lifelong financial freedom through advice that truly puts you first.</p>
                             <div className="about-one__text-box">
