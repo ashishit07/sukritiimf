@@ -21,7 +21,7 @@ export default function Home() {
         <>
             <Layout headerStyle={1} footerStyle={1}>
                 <Banner />
-                <Feature />
+                {/* <Feature /> */}
                 <About />
                 <Funfacts />
                 <Service />
