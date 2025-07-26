@@ -57,7 +57,7 @@ export default function Banner() {
                                             {/* <div className="section-title__tagline-box">
                                                 <p className="section-title__tagline">RELIABLE. pERSONABLE. fAST</p>
                                             </div> */}
-                                            <h2 className="section-title__title"> You  <br/>  with <br/> 
+                                            <h2 className="section-title__title">Hello Sir <br/>  with <br/> 
                                           Commitment
                                                 </h2>
                                         </div>
