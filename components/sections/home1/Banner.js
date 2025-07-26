@@ -57,11 +57,11 @@ export default function Banner() {
                                             {/* <div className="section-title__tagline-box">
                                                 <p className="section-title__tagline">RELIABLE. pERSONABLE. fAST</p>
                                             </div> */}
-                                            <h2 className="section-title__title">Hello Sir <br/>  with <br/> 
-                                          Commitment
+                                            <h2 className="section-title__title">Guiding you <br/>  with <br/> 
+                                          Commitment, Not Commission
                                                 </h2>
                                         </div>
-                                        <p className="main-slider__text">Ethical, need-based financial solutions built for your life’s journey.</p>
+                                        {/* <p className="main-slider__text">Ethical, need-based financial solutions built for your life’s journey.</p> */}
                                     </div>
                                     <div className="main-slider__btn-and-ratting-box">
                                         <div className="main-slider__btn-box">
