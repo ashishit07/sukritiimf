@@ -29,6 +29,7 @@ export default function SatheeShProfile() {
                             <div className="team-details__top-right">
                                 <h3 className="team-details__top-right-title">SATHEESH KUMAR N</h3>
                                 <p className="team-details__top-right-sub-title">Principal Officer </p>
+                       
                                 {/* <ul className="team-details__top-points list-unstyled">
                                     <li>
                                         <span>Department:</span>
@@ -56,18 +57,7 @@ export default function SatheeShProfile() {
                                     <Link href="#" className="team-details__social-color-4"><span
                                             className="icon-linkedin"></span></Link>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div className="team-details__bottom">
-                    {/* <h3 className="team-details__title-1">Alen Walker’s Biography</h3> */}
-                    <p className="team-details__text-1">M.Com (Banking & Insurance), Fellow of Insurance institute of India (FIII)​
-
-MBA (Sales and Marketing)​
-
-</p>
-                    <p className="team-details__text-2">​
+                                   <p className="team-details__text-2">​
 Shri. Satheesh Kumar, Principal officer (PO) of Sukriti IMF LLP is an Industry​
 
 expert having a total experience of 32 years with the top two life insurance​
@@ -81,10 +71,16 @@ concept and advocates only “Need based selling”. He is committed to continue
 ETHICAL & NEED BASED SELLING in his new role as the Principal Office (PO) of​
 
 “Sukriti IMF LLP”.</p>
-                    
-                 
-                
+                   <p className="team-details__text-1">M.Com (Banking & Insurance), Fellow of Insurance institute of India (FIII)​
+
+MBA (Sales and Marketing)​
+
+</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+     
             </div>
         </section>
     );
