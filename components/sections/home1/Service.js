@@ -70,10 +70,10 @@ export default function Service() {
             <div className="container">
                 <div className="section-title text-left">
                     <div className="section-title__tagline-box">
-                        <p className="section-title__tagline">SUKRITI POPULAR SERVICE</p>
+                        <p className="section-title__tagline">Your Trusted Partner for Financial Well-being</p>
                     </div>
-                    <h2 className="section-title__title">Amazing Solutions
-                        <br/> that Protect and reward</h2>
+                    <h2 className="section-title__title">Personalized sessions to help <br/> you protect, plan, and prosper.
+                        </h2>
                 </div>
                 <div className="services-one__bottom">
                     <Swiper {...swiperOptions} className="services-one__carousel">
@@ -81,7 +81,7 @@ export default function Service() {
                             <SwiperSlide className="item">
                                 <div className="services-one__single">
                                     <div className="services-one__title-box">
-                                        <h3 className="services-one__title"><Link href="family-insurance">Educative Marketing ​</Link>
+                                        <h3 className="services-one__title"><Link href="family-insurance">One-to-One Sessions for NPS ​</Link>
                                         </h3>
                                     </div>
                                     <div className="services-one__img-box">
@@ -100,7 +100,7 @@ export default function Service() {
                             <SwiperSlide className="item">
                                 <div className="services-one__single">
                                     <div className="services-one__title-box">
-                                        <h3 className="services-one__title"><Link href="health-insurance">Comprehensive Financial Planning​</Link>
+                                        <h3 className="services-one__title"><Link href="health-insurance">One-to-One Sessions for Mutual Funds​</Link>
                                         </h3>
                                     </div>
                                     <div className="services-one__img-box">
@@ -119,7 +119,7 @@ export default function Service() {
                             <SwiperSlide className="item">
                                 <div className="services-one__single">
                                     <div className="services-one__title-box">
-                                        <h3 className="services-one__title"><Link href="business-insurance">Multi Company Access ​</Link>
+                                        <h3 className="services-one__title"><Link href="business-insurance">One-to-One Sessions for Insurance​</Link>
                                         </h3>
                                     </div>
                                     <div className="services-one__img-box">

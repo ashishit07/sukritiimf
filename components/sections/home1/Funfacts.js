@@ -5,6 +5,7 @@ export default function Funfacts() {
 
      {/* Counter One Start  */}
         <section className="counter-one">
+              <h1 class="section-title__title headding-services">What Makes Us Different</h1>
             <div className="counter-one__shape-1 float-bob-x">
                 <img src="assets/images/shapes/counter-one-shape-1.png" alt=""/>
             </div>
@@ -28,6 +29,7 @@ export default function Funfacts() {
             </div>
             <div className="container">
                 <div className="counter-one__inner">
+                  
                     <ul className="counter-one__count-list list-unstyled">
                         <li className="wow fadeInLeft" data-wow-delay="100ms">
                             <div className="counter-one__icon">
@@ -37,7 +39,7 @@ export default function Funfacts() {
                                     <CounterUp end={250} />
                                 <span>+</span>
                             </div> */}
-                            <p className="counter-one__text">Trusted Advisors​</p>
+                            <p className="counter-one__text">Term Insurance  <br/> Plans​</p>
                         </li>
                         <li className="wow fadeInUp" data-wow-delay="200ms">
                             <div className="counter-one__icon">
@@ -47,7 +49,7 @@ export default function Funfacts() {
                                 <CounterUp end={90} />
                                 <span>+</span>
                             </div> */}
-                            <p className="counter-one__text">Pan-India Reach​</p>
+                            <p className="counter-one__text">Anuity/ Pension  <br/> Plans​</p>
                         </li>
                         <li className="wow fadeInDown" data-wow-delay="300ms">
                             <div className="counter-one__icon">
@@ -57,7 +59,7 @@ export default function Funfacts() {
                                     <CounterUp end={2.56} />
                                 <span>k</span>
                             </div> */}
-                            <p className="counter-one__text">Insurance Solutions Delivered​</p>
+                            <p className="counter-one__text">Guaranteed  <br/> Plans</p>
                         </li>
                         <li className="wow fadeInRight" data-wow-delay="400ms">
                             <div className="counter-one__icon">
@@ -67,8 +69,40 @@ export default function Funfacts() {
                                     <CounterUp end={99} />
                                 <span>%</span>
                             </div> */}
-                            <p className="counter-one__text">One Platform​</p>
+                            <p className="counter-one__text">Householder's/Shopkeeper's <br/> Plans​</p>
                         </li>
+                                 <li className="wow fadeInRight" data-wow-delay="400ms">
+                            <div className="counter-one__icon">
+                                <span className="icon-team"></span>
+                            </div>
+                            {/* <div className="counter-one__count count-box">
+                                    <CounterUp end={99} />
+                                <span>%</span>
+                            </div> */}
+                            <p className="counter-one__text">Householder's/Shopkeeper's  <br/> Plans​</p>
+                        </li>
+                                 <li className="wow fadeInRight" data-wow-delay="400ms">
+                            <div className="counter-one__icon">
+                                <span className="icon-team"></span>
+                            </div>
+                            {/* <div className="counter-one__count count-box">
+                                    <CounterUp end={99} />
+                                <span>%</span>
+                            </div> */}
+                            <p className="counter-one__text">Householder's/Shopkeeper's  <br/> Plans​</p>
+                        </li>
+                                 <li className="wow fadeInRight" data-wow-delay="400ms">
+                            <div className="counter-one__icon">
+                                <span className="icon-team"></span>
+                            </div>
+                            {/* <div className="counter-one__count count-box">
+                                    <CounterUp end={99} />
+                                <span>%</span>
+                            </div> */}
+                            <p className="counter-one__text">Householder's/Shopkeeper's  <br/> Plans​</p>
+                        </li>
+           
+
                     </ul>
                 </div>
             </div>

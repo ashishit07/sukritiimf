@@ -4224,13 +4224,14 @@ ul {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
-
 .counter-one__count-list li {
   position: relative;
   display: block;
   text-align: center;
   margin-bottom: 22px;
+  margin: 0 20px;
 }
 
 .counter-one__icon {
@@ -4238,8 +4239,8 @@ ul {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 120px;
-  height: 120px;
+  width: 80px;
+  height: 80px;
   border: 1px dashed rgba(var(--sonchoy-white-rgb), .40);
   border-radius: 50%;
   transition: all 500ms linear;
@@ -4314,7 +4315,7 @@ ul {
 }
 
 .counter-one__text {
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 700;
   line-height: 28px;
   letter-spacing: -0.02em;
@@ -13090,7 +13091,7 @@ Project Style1
 }
 
 .team-details__top-right-title {
-  font-size: 36px;
+  font-size: 32px;
   font-weight: 700;
   line-height: 46px;
   letter-spacing: -0.04em;
@@ -16063,4 +16064,10 @@ width: 111px;
   opacity: 0;
   transition: all 0.4s linear;
   z-index: -1;
+}
+
+.headding-services {
+  color: white;
+  margin-bottom: 40px;
+  text-align: center;
 }

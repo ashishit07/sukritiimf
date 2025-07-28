@@ -35,7 +35,8 @@ export default function Work() {
                                             <img src="assets/images/shapes/work-step-one-shape-3.png" alt=""/>
                                         </div>
                                     </div>
-                                    <h3 className="work-step-one__title"><Link href="about">Select Insurace</Link></h3>
+                                    <h3 className="work-step-one__title"><Link href="about">Identify your problems/pain points
+</Link></h3>
                                 </div>
                             </div>
                             {/* Work Stpe One Single End */}
@@ -57,7 +58,7 @@ export default function Work() {
                                             <img src="assets/images/shapes/work-step-one-shape-3.png" alt=""/>
                                         </div>
                                     </div>
-                                    <h3 className="work-step-one__title"><Link href="about">Arrange Meeting</Link></h3>
+                                    <h3 className="work-step-one__title"><Link href="about">Arrange one-to-one online meeting</Link></h3>
                                 </div>
                             </div>
                             {/* Work Stpe One Single End */}
@@ -79,7 +80,7 @@ export default function Work() {
                                             <img src="assets/images/shapes/work-step-one-shape-3.png" alt=""/>
                                         </div>
                                     </div>
-                                    <h3 className="work-step-one__title"><Link href="about">Get Your Solution</Link></h3>
+                                    <h3 className="work-step-one__title"><Link href="about">Arrive at appropriate schemes for solution</Link></h3>
                                 </div>
                             </div>
                             {/* Work Stpe One Single End */}
@@ -101,7 +102,7 @@ export default function Work() {
                                             <img src="assets/images/shapes/work-step-one-shape-3.png" alt=""/>
                                         </div>
                                     </div>
-                                    <h3 className="work-step-one__title"><Link href="about">Get \ Insurance</Link></h3>
+                                    <h3 className="work-step-one__title"><Link href="about">Achieve Life, Health, Wealth and Financial Freedom goals</Link></h3>
                                 </div>
                             </div>
                             {/* Work Stpe One Single End */}

@@ -27,7 +27,10 @@ export default function SatheeShProfile() {
                         </div>
                         <div className="col-xl-5 col-lg-5">
                             <div className="team-details__top-right">
-                                <h3 className="team-details__top-right-title">SATHEESH KUMAR N</h3>
+                        
+
+                                  <h3 className="team-details__top-right-title">        Meet Our Principal Officer</h3>
+                                <p className="team-details__top-right-sub-title">SATHEESH KUMAR N</p>
                                 <p className="team-details__top-right-sub-title">Principal Officer </p>
                        
                                 {/* <ul className="team-details__top-points list-unstyled">
