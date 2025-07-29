@@ -79,7 +79,7 @@ export default function Funfacts() {
                                     <CounterUp end={99} />
                                 <span>%</span>
                             </div> */}
-                            <p className="counter-one__text">Householder's/Shopkeeper's  <br/> Plans​</p>
+                            <p className="counter-one__text">Mutual Funds  <br/> Plans​</p>
                         </li>
                                  <li className="wow fadeInRight" data-wow-delay="400ms">
                             <div className="counter-one__icon">
@@ -89,7 +89,7 @@ export default function Funfacts() {
                                     <CounterUp end={99} />
                                 <span>%</span>
                             </div> */}
-                            <p className="counter-one__text">Householder's/Shopkeeper's  <br/> Plans​</p>
+                            <p className="counter-one__text">National Pension <br/> Scheme(NPS)</p>
                         </li>
                                  <li className="wow fadeInRight" data-wow-delay="400ms">
                             <div className="counter-one__icon">
@@ -99,7 +99,7 @@ export default function Funfacts() {
                                     <CounterUp end={99} />
                                 <span>%</span>
                             </div> */}
-                            <p className="counter-one__text">Householder's/Shopkeeper's  <br/> Plans​</p>
+                            <p className="counter-one__text">Health Insurance  <br/> Plans​</p>
                         </li>
            
 

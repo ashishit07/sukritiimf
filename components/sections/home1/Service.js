@@ -181,7 +181,7 @@ export default function Service() {
                             <SwiperSlide className="item">
                                 <div className="services-one__single">
                                     <div className="services-one__title-box">
-                                        <h3 className="services-one__title"><Link href="business-insurance">Business
+                                        <h3 className="services-one__title"><Link href="business-insurance">Busines
                                                 Insurance</Link>
                                         </h3>
                                     </div>
