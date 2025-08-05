@@ -73,7 +73,7 @@ export default function Banner() {
                             </div>
                         </div>
                     </SwiperSlide>
-                    <SwiperSlide className="slide-item">
+                    {/* <SwiperSlide className="slide-item">
                         <div className="item main-slider__slide-1">
                             <div className="main-slider__shape-1 img-bounce">
                                 <img src="assets/images/shapes/main-slider-shape-1.png" alt=""/>
@@ -152,7 +152,7 @@ export default function Banner() {
                                 </div>
                             </div>
                         </div>
-                    </SwiperSlide>
+                    </SwiperSlide> */}
                     <div className="owl-nav">
                         <button type="button" className="owl-prev h1p">
                             <span>‹</span>

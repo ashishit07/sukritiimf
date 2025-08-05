@@ -86,7 +86,7 @@ export default function Service() {
                                     </div>
                                     <div className="services-one__img-box">
                                         <div className="services-one__img">
-                                            <img src="assets/images/services/services-1-1.jpg" alt=""/>
+                                            <img src="https://img.freepik.com/premium-photo/engaging-office-meeting-with-couple_650366-8498.jpg?w=2000" alt=""/>
                                         </div>
                                         <div className="services-one__icon">
                                             <span className="icon-family-insurance"></span>
@@ -105,7 +105,7 @@ export default function Service() {
                                     </div>
                                     <div className="services-one__img-box">
                                         <div className="services-one__img">
-                                            <img src="assets/images/services/services-1-2.jpg" alt=""/>
+                                            <img src="https://img.freepik.com/free-photo/pensive-colleagues-using-modern-device-while-taking-statistics_1262-17087.jpg?t=st=1754400503~exp=1754404103~hmac=bcecd93a5f2371a3e3d1152da8a6afef07e9df5f42273a4a76d110ff1cfc1cd0&w=2000" alt=""/>
                                         </div>
                                         <div className="services-one__icon">
                                             <span className="icon-healthcare"></span>
@@ -124,7 +124,7 @@ export default function Service() {
                                     </div>
                                     <div className="services-one__img-box">
                                         <div className="services-one__img">
-                                            <img src="assets/images/services/services-1-3.jpg" alt=""/>
+                                            <img src="https://img.freepik.com/free-photo/this-is-your-booking-trip-young-man-planning-vacation-about-sign-purchase-agreement-with-travel-agent_662251-2163.jpg?t=st=1754400541~exp=1754404141~hmac=86ccd6dbcd2a6f2c8015955fd05be2a9dd555a31045f652452a5ba3a5ef85786&w=2000" alt=""/>
                                         </div>
                                         <div className="services-one__icon">
                                             <span className="icon-risk-management"></span>

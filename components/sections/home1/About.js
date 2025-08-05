@@ -23,10 +23,10 @@ export default function About() {
                             <div className="about-one__img-box  wow slideInLeft" data-wow-delay="100ms"
                                 data-wow-duration="2500ms">
                                 <div className="about-one__img">
-                                    <img src="assets/images/resources/about-one-img-1.jpg" alt=""/>
+                                    <img src="https://img.freepik.com/free-photo/close-up-hands-holding-paper-people_23-2149191366.jpg?t=st=1754400201~exp=1754403801~hmac=acb73d419a17474827787fb718cb1a931ff9fb09d66bd00cf6befba9c913d992&w=2000" alt=""/>
                                 </div>
                                 <div className="about-one__img-2">
-                                    <img src="assets/images/resources/about-one-img-2.jpg" alt=""/>
+                                    <img src="https://img.freepik.com/free-photo/top-view-health-insurance-form-eyeglasses-pulse-gauge-with-stethoscope-wooden-background_1921-30.jpg" alt=""/>
                                 </div>
                              
                                 <div className="about-one__video-link">

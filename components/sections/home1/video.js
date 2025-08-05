@@ -11,7 +11,7 @@ export default function Video() {
             {/* Video One Start  */}
                 <section className="video-one">
                     <div className="video-one__bg"
-                        style={{ backgroundImage: 'url(assets/images/backgrounds/video-one__bg.jpg)' }} >
+                        style={{ backgroundImage: 'url(https://youtu.be/pT9gZOMAlyY?si=hnfllXrHK0imyQYR)' }} >
                     </div>
                     <div className="video-one__shape-1">
                         <img src="assets/images/shapes/video-one__shape-1.png" alt=""/>
@@ -59,7 +59,7 @@ export default function Video() {
                         </div>
                     </div>
                 </section>
-                <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="Get7rqXYrbQ" onClose={() => setOpen(false)} />
+                <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="pT9gZOMAlyY?si=hnfllXrHK0imyQYR"  onClose={() => setOpen(false)} />
             {/* Video One End  */}
         </>
     )
